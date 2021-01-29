@@ -24,8 +24,8 @@ My job was to practice components and Hooks with react.
 technologies: HTML, CSS, REACT
 
 ------------------
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59742201/106283166-db811c00-6241-11eb-9065-696e989c0467.gif)
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/59742201/106282825-6f061d00-6241-11eb-9926-d9c05fab60f5.gif)
 
 
 
