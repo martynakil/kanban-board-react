@@ -1,9 +1,12 @@
 
+KABAN BOARD 
 
-My job was to do something similar to this: https://kanbanblog.com/explained/
 
 
-What is a kanban system anyway?
+My task was to do something similar to this: https://kanbanblog.com/explained/
+
+
+What is a kanban anyway?
 
 https://www.youtube.com/watch?v=iVaFVa7HYj4&list=PLaD4FvsFdarR3oF1gp5_NmnlL-BQIE9sW&index=1
 
@@ -23,6 +26,7 @@ My job was to practice components and Hooks with react.
 
 technologies: HTML, CSS, REACT
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59742201/106315028-eac88f80-626a-11eb-8bd5-6150b0dacf3d.gif)
 
 ---------------------------------------------------------------
 
