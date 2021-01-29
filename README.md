@@ -1,3 +1,35 @@
+
+
+My job was to do something similar to this: https://kanbanblog.com/explained/
+
+
+What is a kanban system anyway?
+
+https://www.youtube.com/watch?v=iVaFVa7HYj4&list=PLaD4FvsFdarR3oF1gp5_NmnlL-BQIE9sW&index=1
+
+
+I stored my data in LocalStorage ( https://blog.logrocket.com/localstorage-javascript-complete-guide/ )
+
+
+
+My job was to practice components and Hooks with react.
+
+-Adding a Form
+-Adding tasks to the panel
+-Moving tasks around the columns
+-Check that the number of tasks is not greater than the column limit.
+
+
+
+technologies: HTML, CSS, REACT
+
+------------------
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/59742201/106282825-6f061d00-6241-11eb-9926-d9c05fab60f5.gif)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
