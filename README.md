@@ -18,8 +18,11 @@ I stored my data in LocalStorage ( https://blog.logrocket.com/localstorage-javas
 My job was to practice components and Hooks with react.
 
 -Adding a Form
+
 -Adding tasks to the panel
+
 -Moving tasks around the columns
+
 -Check that the number of tasks is not greater than the column limit.
 
 
