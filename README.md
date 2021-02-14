@@ -14,9 +14,10 @@ if you don't know what kanban is. [CLICK HERE](https://kanbanblog.com/explained/
 
 :boom: In short:  :boom: 
 - you add a task
-- this task goes straight to the first column
+- this task goes to the first column
 - there are several columns in the panel, each column has the maximum number of tasks in this column
 - Each task can be moved using the right or left arrow
+- if of course there is place! (max limit)
 
 ---
 
