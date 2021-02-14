@@ -1,106 +1,71 @@
 
-KABAN BOARD 
+<h1> React Kanban  </h1>
+
+
+>from the series: I'm learning React! :muscle:
+
+----
+
+It was a hard task because I don't know react well. My task was to create an impregnation of the Kanban system.
+
+if you don't know what kanban is. [CLICK HERE](https://kanbanblog.com/explained/)
 
 
 
-My task was to do something similar to this: https://kanbanblog.com/explained/
+:boom: In short:  :boom: 
+- you add a task
+- this task goes straight to the first column
+- there are several columns in the panel, each column has the maximum number of tasks in this column
+- Each task can be moved using the right or left arrow
+
+---
 
 
-What is a kanban anyway?
+<h3>What did I use in the project? What have I learned?</h3>
 
-https://www.youtube.com/watch?v=iVaFVa7HYj4&list=PLaD4FvsFdarR3oF1gp5_NmnlL-BQIE9sW&index=1
+:red_circle: I practiced React [HOOKS](https://reactjs.org/docs/hooks-faq.html#gatsby-focus-wrapper) -  useState, own hooks, useEffect
+:red_circle:I continued practicing the components
+:red_circle: How to divide a task into several modules (so that the code is more readable and that one module does not have several functions)
+:red_circle: what is [LocalStorage](https://www.taniarascia.com/how-to-use-local-storage-with-javascript/)
+:red_circle: what is [Context Api](https://www.toptal.com/react/react-context-api)
+:red_circle: Map method, Loops, incrementation, decremetation, comparison operators
+:red_circle: I used   ESLint-a i Prettier  first time
+
+-----
+
+<h3>How to open a file? :eyes: </h3>
+
+* On the right side you will find the "clone or download" button - click it.
+* An item should appear with the "Download ZIP" option - click again.)
+* Now you just need to unpack the downloaded file and open it in your favorite editor.
+* you must enter the appropriate folder (command "cd" + file name)
+* you must to install all packages via *npm install*
+* then you can start *npm start*
 
 
-I stored my data in LocalStorage ( https://blog.logrocket.com/localstorage-javascript-complete-guide/ )
+
+----
+
+:computer: TECHNOLOGIES : HTML, CSS , REACT, NPM, LOCAL STORAGE
 
 
 
-My job was to practice components and Hooks with react.
+———>
 
--Adding a Form
 
--Adding tasks to the panel
+:speaker: :speaker: My next small project from REACT basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/Quiz-react) :arrow_left: :arrow_left: :arrow_left:
 
--Moving tasks around the columns
-
--Check that the number of tasks is not greater than the column limit.
+----
 
 
 
-technologies: HTML, CSS, REACT
+:mag_right: :mag_right: see what it looks like:
+
+
+
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/59742201/106315028-eac88f80-626a-11eb-8bd5-6150b0dacf3d.gif)
 
 ---------------------------------------------------------------
 
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
