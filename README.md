@@ -24,17 +24,17 @@ if you don't know what kanban is. [CLICK HERE](https://kanbanblog.com/explained/
 
 <h3>What did I use in the project? What have I learned?</h3>
 
-:red_circle: I practiced React [HOOKS](https://reactjs.org/docs/hooks-faq.html#gatsby-focus-wrapper) -  useState, own hooks, useEffect
+:red_circle:  I practiced React [HOOKS](https://reactjs.org/docs/hooks-faq.html#gatsby-focus-wrapper) -  useState, own hooks, useEffect
 
-:red_circle:I continued practicing the components
+:red_circle:  I continued practicing the components
 
-:red_circle: How to divide a task into several modules (so that the code is more readable and that one module does not have several functions)
+:red_circle:  How to divide a task into several modules (so that the code is more readable and that one module does not have several functions)
 
-:red_circle: what is [LocalStorage](https://www.taniarascia.com/how-to-use-local-storage-with-javascript/)
+:red_circle:  what is [LocalStorage](https://www.taniarascia.com/how-to-use-local-storage-with-javascript/)
 
-:red_circle: what is [Context Api](https://www.toptal.com/react/react-context-api)
+:red_circle:  what is [Context Api](https://www.toptal.com/react/react-context-api)
 
-:red_circle: Map method, Loops, incrementation, decremetation, comparison operators
+:red_circle:  Map method, Loops, incrementation, decremetation, comparison operators
 
 :red_circle: I used   ESLint-a i Prettier  first time
 
