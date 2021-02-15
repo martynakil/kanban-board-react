@@ -8,7 +8,7 @@
 
 It was a hard task because I don't know react well. My task was to create an impregnation of the Kanban system.
 
-if you don't know what kanban is. [CLICK HERE](https://kanbanblog.com/explained/)
+if you don't know what kanban is. [CLICK HERE](https://github.com/martynakil/quiz_react)
 
 
 
