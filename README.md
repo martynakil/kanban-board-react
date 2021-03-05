@@ -60,7 +60,7 @@ if you don't know what kanban is. [CLICK HERE](https://github.com/martynakil/qui
 ———>
 
 
-:speaker: :speaker: My next small project from REACT basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/Quiz-react) :arrow_left: :arrow_left: :arrow_left:
+:speaker: :speaker: My next small project from REACT basics  :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/QUIZ) :arrow_left: :arrow_left: :arrow_left:
 
 ----
 
