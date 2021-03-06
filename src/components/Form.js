@@ -14,6 +14,8 @@ const Form = ()=> {
       const reducer = (state, { name, value }) => {
         return { ...state, [name]: value };
       };
+
+      
       const tasksContext = useContext(TasksContext);
 
       const [state, dispatch] = useReducer(reducer, init);
