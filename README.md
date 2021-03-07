@@ -1,39 +1,4 @@
-<<<<<<< HEAD
 
-
-My job was to do something similar to this: https://kanbanblog.com/explained/
-
-
-What is a kanban system anyway?
-
-https://www.youtube.com/watch?v=iVaFVa7HYj4&list=PLaD4FvsFdarR3oF1gp5_NmnlL-BQIE9sW&index=1
-
-
-I stored my data in LocalStorage ( https://blog.logrocket.com/localstorage-javascript-complete-guide/ )
-
-
-
-My job was to practice components and Hooks with react.
-
--Adding a Form
--Adding tasks to the panel
--Moving tasks around the columns
--Check that the number of tasks is not greater than the column limit.
-
-
-
-technologies: HTML, CSS, REACT
-
-------------------
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59742201/106283166-db811c00-6241-11eb-9065-696e989c0467.gif)
-
-
-
-
-
-# Getting Started with Create React App
-=======
->>>>>>> 99cfb97628188f1c3102f968258047009160ab83
 
 <h1> React Kanban  </h1>
 
