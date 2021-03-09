@@ -72,8 +72,8 @@ if you don't know what kanban is. [CLICK HERE](https://github.com/martynakil/qui
 
 
 
-![ezgif com-gif-maker](![Zrzut ekranu 2021-03-9 o 18 17 02](https://user-images.githubusercontent.com/59742201/110511257-545a7a00-8104-11eb-9cc7-fe2fc6b48288.png)
-)
+(![Zrzut ekranu 2021-03-9 o 18 17 02](https://user-images.githubusercontent.com/59742201/110511257-545a7a00-8104-11eb-9cc7-fe2fc6b48288.png)
+
 
 ---------------------------------------------------------------
 
